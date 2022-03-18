@@ -1,0 +1,65 @@
+* {
+    margin:none;
+    padding: 0px;
+}
+
+.mother {
+    width: 350px;
+    height: 500px;
+    background-color:thistle;
+    margin: auto;
+     border-radius: 5px;
+    box-shadow: 3px 5px 3px gray;
+}
+.mother h3{
+    color:brown;
+    margin-left: 20px;
+    text-align: center;
+    margin-top: 10px;
+}
+
+img {
+    width: 150px;
+    height: 150px;
+    border-style: solid;
+    border-color:seashell;
+    margin-top:0px;
+    margin-left: 90px;
+    background-color:thistle;
+}
+
+
+#motherdetails h3,
+#motherdetails p {
+    display: inline;
+    
+}
+#motherdetails p{
+    color:blue;
+}
+ul {
+    list-style: none;
+    margin-left: 40px;
+}
+
+li:hover {
+    color:red;
+    text-decoration: none;
+    font-size: 20px;
+}
+.aboutme:visited {
+    color:red;
+}
+
+.text:visited {
+    color:greenyellow;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+}
+.more h4{
+    color:black;
+    text-align: center;
+}
